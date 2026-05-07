@@ -6,7 +6,7 @@ An Arduino UNO project that automatically controls LEDs based on ambient light d
 
 | LED ON (Dark) | LED OFF (Bright) |
 |---|---|
-| Red LEDs active, OLED shows "LED ON" | Green LED active, OLED shows "LED OFF" |
+| ![LED ON](images/led_on.jpg) | ![LED OFF](images/led_off.jpg) |
 
 ## 🔧 Components
 
@@ -48,7 +48,7 @@ Install these via **Arduino IDE → Sketch → Include Library → Manage Librar
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ldr-led-oled-arduino.git
+   git clone https://github.com/roysempai/LDR-Sensor-OLED-based-Project.git
    ```
 2. Open `ldr_led_oled.ino` in Arduino IDE
 3. Install the required libraries
