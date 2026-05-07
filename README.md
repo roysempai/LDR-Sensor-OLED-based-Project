@@ -6,7 +6,7 @@ An Arduino UNO project that automatically controls LEDs based on ambient light d
 
 | LED ON (Dark) | LED OFF (Bright) |
 |---|---|
-| ![LED ON](images/led_on.jpg) | ![LED OFF](images/led_off.jpg) |
+| ![LED ON](images/led_on.jpeg) | ![LED OFF](images/led_off.jpeg) |
 
 ## 🔧 Components
 
